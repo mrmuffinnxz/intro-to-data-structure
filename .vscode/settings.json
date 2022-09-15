@@ -41,6 +41,12 @@
         "xstddef": "cpp",
         "xstring": "cpp",
         "xtr1common": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "xtree": "cpp",
+        "unordered_set": "cpp",
+        "set": "cpp",
+        "stack": "cpp"
     }
 }
